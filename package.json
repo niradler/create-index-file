@@ -4,7 +4,8 @@
   "description": "Create index.js exporting all files in folder.",
   "main": "cif.js",
   "bin": {
-    "cif": "./cif.js"
+    "cif": "cif.js",
+    "create-index-file": "cif.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
