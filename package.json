@@ -1,8 +1,11 @@
 {
   "name": "create-index-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create index.js exporting all files in folder.",
-  "main": "index.js",
+  "main": "cif.js",
+  "bin": {
+    "cif": "./cif.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
