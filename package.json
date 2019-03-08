@@ -9,7 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["create index"],
+  "keywords": [
+    "create index"
+  ],
   "author": "Nir Adler",
   "license": "MIT"
 }
