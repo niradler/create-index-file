@@ -1,0 +1,12 @@
+{
+  "name": "create-index-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["create index"],
+  "author": "Nir Adler",
+  "license": "MIT"
+}
